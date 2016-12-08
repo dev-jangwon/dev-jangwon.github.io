@@ -1,6 +1,6 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
+title: Jangwon Dev Blog
+tagline: 'Jangwon Dev Blog'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: https://dev-jangwon.github.io/
@@ -24,16 +24,16 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  name: Jangwon Kim
+  description: to dare is to <strong>do</strong>
+  gravatar: 40e53960ce70ab8a540f73df713560d9 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/codinfox
-    # facebook:  <hide>
-    twitter:   https://twitter.com/Li_Zhihao
-    weibo:     http://weibo.com/41173780
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    # linkedin:  https://www.linkedin.com/in/lizhihao
+    github:    https://github.com/dev-jangwon
+    facebook:  <hide>
+    # twitter:   https://twitter.com/Li_Zhihao
+    # weibo:     http://weibo.com/41173780
+    email:     http://www.google.com/recaptcha/mailhide/d?k=011C7mvSQVAkNDWV2c7kKMfg==&c=LKR96jp7I9p69Llq-Ep6EV1d1U8x7uLIUjyf9hYNQMY=
 
 # Navigation (2nd level links supported)
 nav:
@@ -46,7 +46,7 @@ nav:
   About:
     - '/about/'
   Github Project:
-    - 'http://codinfox.github.io/'
+    - 'https://github.com/dev-jangwon'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
@@ -58,5 +58,5 @@ hero:
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+google_analytics_token: '' # leave blank if you don't want google analytics
 disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
