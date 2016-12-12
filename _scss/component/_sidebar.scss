@@ -58,6 +58,11 @@
   margin-bottom: 0;
 }
 
+.sidebar-item p strong {
+  font-weight: normal;
+  color: $white;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);

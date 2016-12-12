@@ -1,6 +1,6 @@
 # Site Info
 title: Jangwon Dev Blog
-tagline: 'Jangwon Dev Blog'
+tagline: '개발 블로그 & 저장소'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: https://dev-jangwon.github.io/
@@ -25,7 +25,7 @@ version: 1.0.0
 # About/contact
 author:
   name: Jangwon Kim
-  description: to dare is to <strong>do</strong>
+  description: <strong></strong>멋진 사람, 개발자가 꿈입니다:)
   gravatar: 40e53960ce70ab8a540f73df713560d9 # md5 hash of your email address
   contact:
     # linkedin:  https://www.linkedin.com/in/lizhihao
@@ -52,9 +52,9 @@ nav:
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
-hero:
-  image: /public/img/moonlight-sky.jpg
-  caption: hello world
+cover_image:
+  image: /public/img/wenger.jpg
+  caption: a naive optimist
 
 # Puglins
 mathjax: true # whether support mathjax
