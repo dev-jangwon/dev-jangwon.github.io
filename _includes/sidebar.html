@@ -11,8 +11,8 @@
           <img src="http://www.gravatar.com/avatar/{{ site.author.gravatar }}?s=350" title="View on Gravatar" alt="View on Gravatar" />
         </a>
       </div>
-      <div class="sidebar-personal-info-section">
-        <p>{{ site.author.description }}</p>
+      <div class="codinfox-sidebar-description sidebar-personal-info-section">
+        {{ site.author.description }}
       </div>
       {% if site.author.contact %}
       {% assign len = site.author.contact | size %}
@@ -83,3 +83,17 @@
     </p>
   </div>
 </div>
+<script>
+    (function(){
+        document.addEventListener('DOMContentLoaded', function(){
+            var children = document.getElementsByClassName('codinfox-changing-keywords')[0].children;
+            var length = children.length;
+            var idx = 0;
+            setInterval(function(){
+                children[idx].className = "hidden";
+                idx = (idx + 1) % length;
+                children[idx].className = "visible";
+            }, 2000);
+        });
+    })();
+</script>
