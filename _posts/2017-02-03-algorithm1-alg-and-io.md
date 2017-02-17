@@ -2,6 +2,9 @@
 layout: post
 title: 알고리즘과 입/출력
 category: 알고리즘
+tags:
+- 알고리즘
+- C / C++
 ---
 
 ## 알고리즘 문제에서 입력받는 방식
@@ -12,7 +15,7 @@ category: 알고리즘
 
 ### 테스트 케이스가 주어지지 않는 경우
 * 입력을 EOF까지 받으면 된다.
-{% highlight js %}
+{% highlight cpp %}
 // C : scanf의 리턴 값은 성공적으로 입력받은 변수의 개수다.
 while(scanf("%d %d", &a, &b) == 2)
 // C++
