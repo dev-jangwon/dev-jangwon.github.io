@@ -25,13 +25,13 @@ version: 1.0.0
 # About/contact
 author:
   name: Jangwon Kim
-  description: Want to be a
-        <span class="codinfox-changing-keywords">
-            <b class="visible">Developer</b>
-            <b class="hidden">Confident man</b>
-            <b class="hidden">Lifelong learner</b>
-        </span><br>
-        Welcome to jangwon`s blog:)
+  description: Hello:)
+    # Want to be a
+    #     <span class="codinfox-changing-keywords">
+    #         <b class="visible">Developer</b>
+    #         <b class="hidden">Confident man</b>
+    #         <b class="hidden">Lifelong learner</b>
+    #     </span><br>
   gravatar: 40e53960ce70ab8a540f73df713560d9 # md5 hash of your email address
   contact:
     # linkedin:  https://www.linkedin.com/in/lizhihao
