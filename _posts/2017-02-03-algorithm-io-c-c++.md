@@ -25,14 +25,14 @@ while(cin >> a >> b)
 
 ### 한 줄을 입력받아야 하는 경우
 * 아래 두 방법은 한 줄을 입력받을 수 없다.
-{% highlight js %}
+{% highlight cpp %}
 // C
 scanf("%s", s);
 // C++
 cin >> s;
 {% endhighlight %}
 * 아래 세 방법은 모두 한 줄을 전체로 입력받을 수 있다. fgets는 줄바꿈까지 입력되기 때문에, 조심해야한다.
-{% highlight js %}
+{% highlight cpp %}
 // C
 fgets(s, 100, stdin);
 scanf("%[^\n]\n", s);

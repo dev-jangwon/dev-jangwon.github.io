@@ -66,3 +66,7 @@ tags:
   2. 점화식을 세운다.
   3. 기저조건을 세운다.
   4. 메모이제이션 변수의 차원 수를 정한다. (Top-Down의 경우에는 재귀 호출의 인자의 개수)
+
+* 1463 [1로 만들기](https://www.acmicpc.net/problem/1463) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201701/20170125/1463.cpp)
+
+* 9465 [스티커](https://www.acmicpc.net/problem/9465) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201701/20170126/9465.cpp)
