@@ -50,7 +50,7 @@ tags:
   * 전위 순회한 결과 : ABDCEFG // (루트) (왼쪽 자식) (오른쪽 자식)
   * 중위 순회한 결과 : DBAECFG // (왼쪽 자식) (루트) (오른쪽 자식)
   * 후위 순회한 결과 : DBEGFCA // (왼쪽 자식) (오른쪽 자식) (루트)
-  * 1991 [트리 순회](https://www.acmicpc.net/problem/1991) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201703/1991.cpp)
+  * 1991 [트리 순회](https://www.acmicpc.net/problem/1991) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201703/20170307/1991.cpp)
 
 * 트리를 저장하는 방법
   * N링크 표현법(N-link)
@@ -61,5 +61,5 @@ tags:
     * 단점: 부모노드에서 자식노드를 한번에 방문할 방법이 없음. 내 자식이 몇 명인지 모름.
 
 * 트리의 부모, 지름
-  * 11725 [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201703/11725.cpp)
-  * 1967 [트리의 지름](https://www.acmicpc.net/problem/1967) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201703/1967.cpp)
+  * 11725 [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201703/20170307/11725.cpp)
+  * 1967 [트리의 지름](https://www.acmicpc.net/problem/1967) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201703/20170307/1967.cpp)
