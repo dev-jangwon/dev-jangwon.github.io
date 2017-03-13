@@ -1,23 +1,11 @@
-# Codinfox-Lanyon
+## Blog
+개발, 기록을 위한 개인 블로그의 리포지토리입니다.
 
-This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
+https://dev-jangwon.github.io/
 
-**If you like this project, PLEASE give it a star.**
-
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-
-All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward.
-
-The theme supports:
-
-1. Theme colors: you can choose your favorite theme color
-2. Changable sidebar locations
-3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
-4. and numerous improvements over original Lanyon
-
+- 정적 웹 사이트 생성 도구 [jekyll](https://jekyllrb-ko.github.io/)
+- 블로그 template [codinfox lanyon](https://github.com/codinfox/codinfox-lanyon)
+- 블로그 호스팅 [GitHub Pages](https://pages.github.com/)
 
 ## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+Open sourced under the [MIT license](LICENSE.md)

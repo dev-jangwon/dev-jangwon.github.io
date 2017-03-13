@@ -93,6 +93,6 @@ tags:
     }
     {% endhighlight %}
 
-    * 1260 [DFS와 BFS](https://www.acmicpc.net/problem/1260) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201702/20170215/1260.cpp)
+  * 1260 [DFS와 BFS](https://www.acmicpc.net/problem/1260) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201702/20170215/1260.cpp)
 
-    * 11724 [연결 요소의 개수](https://www.acmicpc.net/problem/11724) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201702/20170221/11724.cpp)
+  * 11724 [연결 요소의 개수](https://www.acmicpc.net/problem/11724) / [소스코드](https://github.com/dev-jangwon/algorithm/blob/master/201702/20170221/11724.cpp)
