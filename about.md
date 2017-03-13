@@ -15,4 +15,4 @@ title: About
   * 클라우드 서비스 스타트업 코다임 구름 IDE팀 인턴(2016.1 ~ 2017.1)
 
 ### Repository
-  * https://github.com/dev-jangwon
+  * [https://github.com/dev-jangwon](https://github.com/dev-jangwon)
