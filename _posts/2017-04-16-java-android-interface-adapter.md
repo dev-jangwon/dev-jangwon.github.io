@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 안드로이드 예제를 통해 인터페이스와 어댑터 알아보기
-category: Java, Android
+category: Android
 tags:
 - Java
 - Android

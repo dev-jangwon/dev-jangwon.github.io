@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JVM, JRE, JDK
-category: Java, Android
+category: Java
 tags:
 - Java
 - JDK, JRE, JVM

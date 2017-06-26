@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android Platform
-category: Java, Android
+category: Android
 tags:
 - Java
 - Android

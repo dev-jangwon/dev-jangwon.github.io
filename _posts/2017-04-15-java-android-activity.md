@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 안드로이드 예제를 통해 액티비티와 인텐트 알아보기
-category: Java, Android
+category: Android
 tags:
 - Java
 - Android

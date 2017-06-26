@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 안드로이드 예제를 통해 Java 클래스, 상속 알아보기
-category: Java, Android
+category: Android
 tags:
 - Java
 - Android
