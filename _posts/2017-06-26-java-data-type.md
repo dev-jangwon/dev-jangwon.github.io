@@ -18,6 +18,9 @@ tags:
     * 기본적으로 java.lang.Object를 상속받으면 참조형이 된다.
     * 실제 보유하고 있는 데이터는 null or 메모리에 생성된 객체의 주소값이다.
     * 이 데이터는 Runtime Data Areas의 힙 or 메소드 영역에 존재한다.
+    * 생성자 호출 없이도 사용 가능한 실제 객체로 생성되는 타입 두가지
+      * String ""
+      * 배열 {값1, 값2, ...}
 
   * 예제
   {% highlight java %}
