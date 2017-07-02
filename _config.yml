@@ -63,6 +63,6 @@ cover_image:
   caption: ''
 
 # Puglins
-mathjax: true # whether support mathjax
+mathjax: false # whether support mathjax
 google_analytics_token: '' # leave blank if you don't want google analytics
 disqus_short_name: 'dev-jangwon'
