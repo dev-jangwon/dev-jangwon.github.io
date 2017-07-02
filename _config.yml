@@ -60,7 +60,7 @@ category_page: '/blog/categories/'
 
 cover_image:
   image: /public/img/moonlight-sky.jpg
-  caption: a naive optimist
+  caption: ''
 
 # Puglins
 mathjax: true # whether support mathjax

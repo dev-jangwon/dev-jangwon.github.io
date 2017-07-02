@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Platform
+title: 안드로이드 플랫폼
 category: Android
 tags:
 - Java
